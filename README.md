@@ -1,4 +1,5 @@
 # Advertisements-Detection-and-Replacement-in-Multimedia-Content
+Work in a team as a team leader
 
 1. Utilized Java GUI to build a Media Player which has a display panel and three control buttons: Play, Pause and Stop.
 Implemented three event handler to correspondingly handle play, pause and stop event.
